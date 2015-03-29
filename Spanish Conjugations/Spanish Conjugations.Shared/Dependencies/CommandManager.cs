@@ -5,7 +5,7 @@ using System.Windows;
 using System.Security;
 using System.Windows.Input;
 
-namespace French_Conjugations
+namespace Spanish_Conjugations
 {
     public sealed class CommandManager
     {

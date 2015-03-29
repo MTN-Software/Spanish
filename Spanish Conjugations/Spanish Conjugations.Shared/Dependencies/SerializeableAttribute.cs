@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Runtime.InteropServices;
 
-namespace French_Conjugations
+namespace Spanish_Conjugations
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct | AttributeTargets.Enum | AttributeTargets.Delegate, Inherited = false)]
     [ComVisible(true)]

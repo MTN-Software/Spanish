@@ -4,7 +4,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Windows.Input;
 
-namespace French_Conjugations
+namespace Spanish_Conjugations
 {
     public class RelayCommand : ICommand
     {

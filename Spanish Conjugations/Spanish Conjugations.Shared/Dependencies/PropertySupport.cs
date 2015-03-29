@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace French_Conjugations
+namespace Spanish_Conjugations
 {
 
     #region PropertyInfo Hack

@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq.Expressions;
 
 
-namespace French_Conjugations
+namespace Spanish_Conjugations
 {
     [Serializable]
     public abstract class ObservableObject : INotifyPropertyChanged

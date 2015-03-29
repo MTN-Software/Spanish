@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace French_Conjugations
+namespace Spanish_Conjugations
 {
     // Summary:
     //     Represents and identifies a routed event and declares its characteristics.

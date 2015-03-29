@@ -3,7 +3,7 @@ using System.Collections;
 using System.Reflection;
 using System.ComponentModel;
 using System.ComponentModel;
-namespace French_Conjugations
+namespace Spanish_Conjugations
 {
     public sealed class TypeDescriptor
     {
